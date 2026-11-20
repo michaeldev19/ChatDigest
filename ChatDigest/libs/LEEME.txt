@@ -1,0 +1,19 @@
+Copia aquí las librerías de Ace3 para 3.3.5a (las mismas que usas en RaidPrep).
+La carpeta libs debe quedar así:
+
+libs\
+  embeds.xml
+  LibStub\
+  CallbackHandler-1.0\
+  AceAddon-3.0\
+  AceEvent-3.0\
+  AceTimer-3.0\
+  AceConsole-3.0\
+  AceDB-3.0\
+  AceDBOptions-3.0\
+  AceLocale-3.0\
+  AceGUI-3.0\
+  AceConfig-3.0\        (contiene AceConfigRegistry, AceConfigDialog y AceConfigCmd)
+
+AceEvent y AceTimer todavía no se usan, pero harán falta para capturar
+los mensajes del chat y para el refresco cada 10 segundos.

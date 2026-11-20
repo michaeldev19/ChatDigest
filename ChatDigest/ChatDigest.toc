@@ -1,0 +1,22 @@
+## Interface: 30300
+## Title: ChatDigest
+## Notes: |cffcaf7faGroups repeated chat messages and shows only the latest message from each player|r
+## Notes-esES: |cffcaf7faAgrupa los mensajes repetidos del chat y muestra solo el último mensaje de cada jugador|r
+## Notes-esMX: |cffcaf7faAgrupa los mensajes repetidos del chat y muestra solo el último mensaje de cada jugador|r
+## LoadOnDemand: 0
+## SavedVariables: ChatDigest_DB
+## DefaultState: enabled
+## Author: Shinji
+## Version: 0.1.0
+## OptionalDeps: Ace3
+## X-Category: Chat/Communication
+## X-Embeds: Ace3
+
+libs\embeds.xml
+
+locale\localization.en.lua
+locale\localization.es.lua
+
+Core.lua
+Config.lua
+UI\MainFrame.lua
