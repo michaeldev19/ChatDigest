@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="CHATDIGEST_TOGGLE" header="CHATDIGEST">
+		LibStub("AceAddon-3.0"):GetAddon("ChatDigest"):ToggleWindow()
+	</Binding>
+</Bindings>

@@ -7,9 +7,10 @@
 ## SavedVariables: ChatDigest_DB
 ## DefaultState: enabled
 ## Author: Shinji
-## Version: 0.1.0
+## Version: 1.0
 ## OptionalDeps: Ace3
 ## X-Category: Chat/Communication
+## X-Website: https://github.com/michaeldev19/ChatDigest
 ## X-Embeds: Ace3
 
 libs\embeds.xml
@@ -18,5 +19,9 @@ locale\localization.en.lua
 locale\localization.es.lua
 
 Core.lua
+Messages.lua
+Categories.lua
+Alerts.lua
+PlayerInfo.lua
 Config.lua
 UI\MainFrame.lua
