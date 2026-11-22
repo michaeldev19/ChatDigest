@@ -39,7 +39,8 @@ local DEFAULT_KEYWORDS = {
 		raid = {
 			"raid", "icc*", "toc", "toc10", "toc25", "togc", "totgc", "rs*",
 			"ruby sanctum", "voa", "archa*", "archavon", "naxx*", "ulduar", "uld",
-			"ony", "onyxia", "os", "sartharion", "eoe", "malygos", "maly",
+			"ony", "onyxia", "os", "os10", "os10n", "os25", "os25n", "sartharion",
+			"eoe", "malygos", "maly",
 		},
 		dungeon = {
 			"dungeon*", "heroic*", "hc", "daily", "random", "rdf",
@@ -60,7 +61,7 @@ local DEFAULT_KEYWORDS = {
 			"toc10h", "toc 10h", "toc25", "toc 25", "toc25n", "toc 25n", "toc25h", "toc 25h",
 			"prueba del cruzado", "sr*", "sagrario rubi", "sagrario rubí", "archa*", "archavon",
 			"archa10", "archa 10", "archa25", "archa 25", "naxx*", "ulduar", "ony", "onyxia",
-			"so", "sartharion", "malygos", "maly",
+			"so", "so10", "so10n", "so25", "so25n", "sartharion", "malygos", "maly",
 		},
 		dungeon = {
 			"mazmorra*", "heroica*", "heroico*", "heroic*", "diaria", "rdf",
