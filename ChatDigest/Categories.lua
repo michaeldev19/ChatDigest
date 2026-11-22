@@ -37,7 +37,7 @@ end
 local DEFAULT_KEYWORDS = {
 	enUS = {
 		raid = {
-			"raid", "icc*", "toc", "toc10", "toc25", "togc", "totgc", "rs",
+			"raid", "icc*", "toc", "toc10", "toc25", "togc", "totgc", "rs*",
 			"ruby sanctum", "voa", "archa*", "archavon", "naxx*", "ulduar", "uld",
 			"ony", "onyxia", "os", "sartharion", "eoe", "malygos", "maly",
 		},
@@ -58,7 +58,7 @@ local DEFAULT_KEYWORDS = {
 		raid = {
 			"banda", "raid", "icc*", "ciudadela", "toc10", "toc 10", "toc10n", "toc 10n",
 			"toc10h", "toc 10h", "toc25", "toc 25", "toc25n", "toc 25n", "toc25h", "toc 25h",
-			"prueba del cruzado", "sr", "sagrario rubi", "sagrario rubí", "archa*", "archavon",
+			"prueba del cruzado", "sr*", "sagrario rubi", "sagrario rubí", "archa*", "archavon",
 			"archa10", "archa 10", "archa25", "archa 25", "naxx*", "ulduar", "ony", "onyxia",
 			"so", "sartharion", "malygos", "maly",
 		},
