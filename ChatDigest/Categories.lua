@@ -49,7 +49,7 @@ local DEFAULT_KEYWORDS = {
 		},
 		trade = {
 			"wts", "wtb", "wtt", "sell*", "buy*", "cheap", "price",
-			"enchant*", "ench", "jc", "jewelcraft*", "craft*", "tips", "s "
+			"enchant*", "ench", "jc", "jewelcraft*", "craft*", "tips", "s ", "b "
 		},
 		guild = {
 			"guild*", "recruit*!", "gbank", "apply", "progression",
@@ -72,7 +72,7 @@ local DEFAULT_KEYWORDS = {
 		trade = {
 			"vendo", "compro", "wts", "wtb", "wtt", "venta", "precio*", "barato",
 			"encantador*", "encantamiento*", "joyero", "joyeria", "joyería", "jc",
-			"fabrico", "propina*", "vende", " v ", "alquimista", "alquimia", "sastre",
+			"fabrico", "propina*", "vende", " v ", "c ", "alquimista", "alquimia", "sastre",
 			"sastrería", "sastreria", "peletero", "peletería", "peleteria",
 			"incriptor", "inscripción", "inscripcion", "ingeniero", "ingeniería", "ingenieria"
 		},
